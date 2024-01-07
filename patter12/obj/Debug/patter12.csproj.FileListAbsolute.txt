@@ -1,0 +1,7 @@
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\patter12\bin\Debug\patter12.exe.config
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\patter12\bin\Debug\patter12.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\patter12\bin\Debug\patter12.pdb
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\patter12\obj\Debug\patter12.csproj.AssemblyReference.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\patter12\obj\Debug\patter12.csproj.CoreCompileInputs.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\patter12\obj\Debug\patter12.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\patter12\obj\Debug\patter12.pdb
