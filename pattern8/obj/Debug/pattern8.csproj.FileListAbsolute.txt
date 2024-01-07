@@ -1,0 +1,7 @@
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\pattern8\bin\Debug\pattern8.exe.config
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\pattern8\bin\Debug\pattern8.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\pattern8\bin\Debug\pattern8.pdb
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\pattern8\obj\Debug\pattern8.csproj.AssemblyReference.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\pattern8\obj\Debug\pattern8.csproj.CoreCompileInputs.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\pattern8\obj\Debug\pattern8.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\pattern8\obj\Debug\pattern8.pdb
