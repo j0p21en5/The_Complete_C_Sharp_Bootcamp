@@ -23,6 +23,11 @@ namespace Pattern7
                 {
                     Console.Write("*");
                 }
+                //for(int j = 2; j <= i; ++j)
+                //{
+                //    Console.Write("*");
+
+                //}
                 Console.WriteLine();
             }
 
@@ -36,6 +41,10 @@ namespace Pattern7
                 {
                     Console.Write("*");
                 }
+                //for (int k = i; k <= s; k++)
+                //{
+                //    Console.Write("*");
+                //}
                 Console.WriteLine();
             }
             Console.ReadLine();
