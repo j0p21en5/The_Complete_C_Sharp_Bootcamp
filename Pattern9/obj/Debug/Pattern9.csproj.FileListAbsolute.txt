@@ -1,0 +1,7 @@
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern9\bin\Debug\Pattern9.exe.config
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern9\bin\Debug\Pattern9.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern9\bin\Debug\Pattern9.pdb
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern9\obj\Debug\Pattern9.csproj.AssemblyReference.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern9\obj\Debug\Pattern9.csproj.CoreCompileInputs.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern9\obj\Debug\Pattern9.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern9\obj\Debug\Pattern9.pdb
