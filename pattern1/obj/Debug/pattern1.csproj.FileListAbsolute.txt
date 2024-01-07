@@ -1,0 +1,7 @@
+D:\Github Hosting\pattern\pattern1\bin\Debug\pattern1.exe.config
+D:\Github Hosting\pattern\pattern1\bin\Debug\pattern1.exe
+D:\Github Hosting\pattern\pattern1\bin\Debug\pattern1.pdb
+D:\Github Hosting\pattern\pattern1\obj\Debug\pattern1.csproj.AssemblyReference.cache
+D:\Github Hosting\pattern\pattern1\obj\Debug\pattern1.csproj.CoreCompileInputs.cache
+D:\Github Hosting\pattern\pattern1\obj\Debug\pattern1.exe
+D:\Github Hosting\pattern\pattern1\obj\Debug\pattern1.pdb
