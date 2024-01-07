@@ -14,14 +14,44 @@ namespace Pattern9
 
             for (int i = 0; i < n; i++)
             {
-                for (int j = i; j < n; j++)
+                for (int j = i; j < 4; j++)
                 {
-                    Console.Write("-");
+                    Console.Write(" ");
                 }
                 Console.Write("*");
                 for (int k = 0; k < i; k++)
                 {
-                    Console.Write("-");
+                    Console.Write(" ");
+                }
+                for (int k = 0; k < i; k++)
+                {
+                    Console.Write(" ");
+                }
+
+
+                Console.Write("*");
+                Console.WriteLine();
+            }
+
+
+
+            for (int i = 0; i < n; i++)
+            {
+                for (int k = 0; k < i; k++)
+                {
+                    Console.Write(" ");
+                }
+
+
+                
+                Console.Write("*");
+                for (int j = i; j < 4; j++)
+                {
+                    Console.Write(" ");
+                }
+                for (int j = i; j < 4; j++)
+                {
+                    Console.Write(" ");
                 }
                 Console.Write("*");
                 Console.WriteLine();
