@@ -10,6 +10,28 @@ namespace pattern10
     {
         static void Main(string[] args)
         {
+            int n = 10;
+            int s = n - 1;
+            int t = n - 2;
+
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write("*");
+
+            }
+            Console.WriteLine();
+            for (int i = 0;i < s; i++)
+            {
+                Console.Write("*");
+                for (int j = i; j < t; j++)
+                {
+                    Console.Write(" ");
+                }
+                Console.Write("*");
+                Console.WriteLine();
+
+            }
+            Console.ReadLine();
         }
     }
 }
