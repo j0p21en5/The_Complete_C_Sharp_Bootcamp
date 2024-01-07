@@ -1,0 +1,7 @@
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern4\bin\Debug\Pattern4.exe.config
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern4\bin\Debug\Pattern4.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern4\bin\Debug\Pattern4.pdb
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern4\obj\Debug\Pattern4.csproj.AssemblyReference.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern4\obj\Debug\Pattern4.csproj.CoreCompileInputs.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern4\obj\Debug\Pattern4.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern4\obj\Debug\Pattern4.pdb
