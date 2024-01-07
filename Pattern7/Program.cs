@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace Pattern7
 {
     internal class Program
-    {
+    { 
+        
         static void Main(string[] args)
         {
             Console.WriteLine("Enter the number");
