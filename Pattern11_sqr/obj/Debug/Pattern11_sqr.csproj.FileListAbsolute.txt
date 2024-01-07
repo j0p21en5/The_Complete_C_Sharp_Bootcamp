@@ -1,0 +1,7 @@
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern11_sqr\bin\Debug\Pattern11_sqr.exe.config
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern11_sqr\bin\Debug\Pattern11_sqr.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern11_sqr\bin\Debug\Pattern11_sqr.pdb
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern11_sqr\obj\Debug\Pattern11_sqr.csproj.AssemblyReference.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern11_sqr\obj\Debug\Pattern11_sqr.csproj.CoreCompileInputs.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern11_sqr\obj\Debug\Pattern11_sqr.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Pattern11_sqr\obj\Debug\Pattern11_sqr.pdb
