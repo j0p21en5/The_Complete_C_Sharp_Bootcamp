@@ -10,7 +10,9 @@ namespace pattern10
     {
         static void Main(string[] args)
         {
-            int n = 10;
+            
+            Console.WriteLine("Enter the number : ");
+            int n = int.Parse(Console.ReadLine());
             int s = n - 1;
             int t = n - 2;
 
