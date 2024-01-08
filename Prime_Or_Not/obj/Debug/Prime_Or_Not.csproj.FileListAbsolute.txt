@@ -1,0 +1,7 @@
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Prime_Or_Not\bin\Debug\Prime_Or_Not.exe.config
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Prime_Or_Not\bin\Debug\Prime_Or_Not.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Prime_Or_Not\bin\Debug\Prime_Or_Not.pdb
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Prime_Or_Not\obj\Debug\Prime_Or_Not.csproj.AssemblyReference.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Prime_Or_Not\obj\Debug\Prime_Or_Not.csproj.CoreCompileInputs.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Prime_Or_Not\obj\Debug\Prime_Or_Not.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Prime_Or_Not\obj\Debug\Prime_Or_Not.pdb
