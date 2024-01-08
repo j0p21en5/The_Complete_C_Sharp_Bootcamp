@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Input sting and print in Array\bin\Debug\Input sting and print in Array.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Input sting and print in Array\bin\Debug\Input sting and print in Array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Input sting and print in Array\bin\Debug\Input sting and print in Array.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Input sting and print in Array\obj\Debug\Input sting and print in Array.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Input sting and print in Array\obj\Debug\Input sting and print in Array.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Input sting and print in Array\obj\Debug\Input sting and print in Array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Input sting and print in Array\obj\Debug\Input sting and print in Array.pdb
