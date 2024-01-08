@@ -12,9 +12,9 @@ namespace Sum_of_Negative_And_Positive_Integer
         {
             Console.WriteLine("Enter the number you Want to store in Array : ");
             int n = int.Parse(Console.ReadLine());
-            double sump = 0;
-            double sumn = 0;
-            double[] arr = new double[n];
+            int sump = 0;
+            int sumn = 0;
+            int[] arr = new int[n];
             Console.WriteLine("Enter The array Elements : ");
             for (int i = 0; i < arr.Length; i++)
             {
