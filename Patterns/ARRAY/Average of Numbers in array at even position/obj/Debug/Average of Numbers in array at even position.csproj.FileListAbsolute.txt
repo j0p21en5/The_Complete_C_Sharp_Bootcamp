@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Average of Numbers in array at even position\bin\Debug\Average of Numbers in array at even position.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Average of Numbers in array at even position\bin\Debug\Average of Numbers in array at even position.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Average of Numbers in array at even position\bin\Debug\Average of Numbers in array at even position.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Average of Numbers in array at even position\obj\Debug\Average of Numbers in array at even position.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Average of Numbers in array at even position\obj\Debug\Average of Numbers in array at even position.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Average of Numbers in array at even position\obj\Debug\Average of Numbers in array at even position.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Average of Numbers in array at even position\obj\Debug\Average of Numbers in array at even position.pdb

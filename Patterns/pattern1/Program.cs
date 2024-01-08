@@ -26,3 +26,5 @@ namespace pattern1
         }
     }
 }
+
+
