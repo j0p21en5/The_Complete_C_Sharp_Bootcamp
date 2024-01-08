@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum Of N Numbers\bin\Debug\Sum Of N Numbers.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum Of N Numbers\bin\Debug\Sum Of N Numbers.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum Of N Numbers\bin\Debug\Sum Of N Numbers.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum Of N Numbers\obj\Debug\Sum Of N Numbers.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum Of N Numbers\obj\Debug\Sum Of N Numbers.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum Of N Numbers\obj\Debug\Sum Of N Numbers.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum Of N Numbers\obj\Debug\Sum Of N Numbers.pdb
