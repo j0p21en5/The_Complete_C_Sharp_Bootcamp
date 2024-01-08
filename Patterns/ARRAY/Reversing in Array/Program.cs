@@ -20,18 +20,25 @@ namespace Reversing_an_Array
                 int b = int.Parse(Console.ReadLine());
                 arr[i] = b;
             }
-            Console.WriteLine("Array Elements are : ");
+            //Console.WriteLine("Array Elements are : ");
 
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    Console.WriteLine(arr[i]);
+            //}
+            Array.Reverse(arr);
+            Console.WriteLine("Reverse Array is : ");
             for (int i = 0; i < arr.Length; i++)
             {
                 Console.WriteLine(arr[i]);
             }
-            Array.Reverse(arr);
-            Console.WriteLine("Reverse Array is : ");
-            for(int i = 0;i < arr.Length; i++)
-            {
-                Console.WriteLine(arr[i]);
-            }
+
+            //Console.WriteLine("Reverse Array is : ");
+
+            //for (int i = arr.Length; i >= 1; i--)
+            //{
+            //    Console.WriteLine(arr[i]);
+            //}
 
             Console.ReadLine();
         }
