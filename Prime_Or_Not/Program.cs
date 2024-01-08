@@ -15,7 +15,7 @@ namespace Prime_Or_Not
             int count = 0;
             for (int i = 2; i < n; i++)
             {
-                Console.WriteLine(i);
+                //Console.WriteLine(i);
 
                 if (n % i == 0)
                 {
