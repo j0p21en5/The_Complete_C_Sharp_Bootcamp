@@ -10,10 +10,16 @@ namespace patter12
     {
         static void Main(string[] args)
         {
-            int n = 5;
-            for (int i = 0; i < 4; i++)
+           
+            Console.WriteLine("Enter the number : ");
+            int n = int.Parse(Console.ReadLine());
+            int s = n - 1;
+            int t = n - 2;
+            int q = n + 1;
+
+            for (int i = 0; i < s; i++)
             {
-                for (int j = i; j < 4; j++)
+                for (int j = i; j < s; j++)
                 {
                     Console.Write(" ");
                 }
@@ -32,11 +38,13 @@ namespace patter12
                 Console.WriteLine();
 
             }
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < q; i++)
             {
                 Console.Write("*");
+                Console.Write(" ");
 
             }
+
             Console.ReadLine();
         }
     }
