@@ -36,8 +36,9 @@ namespace Largest_Element_in_the_Array
             {
                 Console.WriteLine(arr[i]);
             }
+            int len = arr.Length;
 
-            Console.WriteLine("Largest Element in the Array is : " + arr[n]);
+            Console.WriteLine("Largest Element in the Array is : " + arr[len-1]);
 
             Console.ReadLine();
         }
