@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Smallest Element in the Array\bin\Debug\Smallest Element in the Array.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Smallest Element in the Array\bin\Debug\Smallest Element in the Array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Smallest Element in the Array\bin\Debug\Smallest Element in the Array.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Smallest Element in the Array\obj\Debug\Smallest Element in the Array.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Smallest Element in the Array\obj\Debug\Smallest Element in the Array.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Smallest Element in the Array\obj\Debug\Smallest Element in the Array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Smallest Element in the Array\obj\Debug\Smallest Element in the Array.pdb
