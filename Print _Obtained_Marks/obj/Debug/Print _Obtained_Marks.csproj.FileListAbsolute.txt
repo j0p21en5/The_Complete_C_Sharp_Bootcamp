@@ -1,0 +1,7 @@
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Print _Obtained_Marks\bin\Debug\Print _Obtained_Marks.exe.config
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Print _Obtained_Marks\bin\Debug\Print _Obtained_Marks.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Print _Obtained_Marks\bin\Debug\Print _Obtained_Marks.pdb
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Print _Obtained_Marks\obj\Debug\Print _Obtained_Marks.csproj.AssemblyReference.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Print _Obtained_Marks\obj\Debug\Print _Obtained_Marks.csproj.CoreCompileInputs.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Print _Obtained_Marks\obj\Debug\Print _Obtained_Marks.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Print _Obtained_Marks\obj\Debug\Print _Obtained_Marks.pdb
