@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\ConsoleApp1\obj\Debug\Average_mark.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\ConsoleApp1\obj\Debug\Average_mark.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
