@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum of Negative And Positive Integer\bin\Debug\Sum of Negative And Positive Integer.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum of Negative And Positive Integer\bin\Debug\Sum of Negative And Positive Integer.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum of Negative And Positive Integer\bin\Debug\Sum of Negative And Positive Integer.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum of Negative And Positive Integer\obj\Debug\Sum of Negative And Positive Integer.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum of Negative And Positive Integer\obj\Debug\Sum of Negative And Positive Integer.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum of Negative And Positive Integer\obj\Debug\Sum of Negative And Positive Integer.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Sum of Negative And Positive Integer\obj\Debug\Sum of Negative And Positive Integer.pdb
