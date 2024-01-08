@@ -1,0 +1,7 @@
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Count_Number_Of_Digits\bin\Debug\Count_Number_Of_Digits.exe.config
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Count_Number_Of_Digits\bin\Debug\Count_Number_Of_Digits.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Count_Number_Of_Digits\bin\Debug\Count_Number_Of_Digits.pdb
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Count_Number_Of_Digits\obj\Debug\Count_Number_Of_Digits.csproj.AssemblyReference.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Count_Number_Of_Digits\obj\Debug\Count_Number_Of_Digits.csproj.CoreCompileInputs.cache
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Count_Number_Of_Digits\obj\Debug\Count_Number_Of_Digits.exe
+D:\Github Hosting\pattern\The_Complete_C_Sharp_Bootcamp\Count_Number_Of_Digits\obj\Debug\Count_Number_Of_Digits.pdb
