@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Array element in reverse order\bin\Debug\Array element in reverse order.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Array element in reverse order\bin\Debug\Array element in reverse order.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Array element in reverse order\bin\Debug\Array element in reverse order.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Array element in reverse order\obj\Debug\Array element in reverse order.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Array element in reverse order\obj\Debug\Array element in reverse order.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Array element in reverse order\obj\Debug\Array element in reverse order.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Array element in reverse order\obj\Debug\Array element in reverse order.pdb
