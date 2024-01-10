@@ -10,27 +10,76 @@ namespace Insert_Array_element_in_specified_position
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter the lenght of Array : ");
-            int a = int.Parse(Console.ReadLine());
-            int[] num = new int[a];
+            Console.WriteLine("Enter the number of element you want to store in Array");
+            int n = int.Parse(Console.ReadLine());
 
+            int etc = n + 1;
 
-            for (int i = 0; i < num.Length; i++)
+            int[] arr = new int[etc];
+
+            Console.WriteLine("Enter the Array Elements : ");
+
+            for (int i = 0; i < arr.Length-1; i++)
             {
-                Console.Write("Enter the index number :");
-                int p = int.Parse(Console.ReadLine());
+                int inp = int. Parse(Console.ReadLine());
+                arr[i] = inp;
+            }
 
-                Console.Write("Enter the Element :");
-                int j = int.Parse(Console.ReadLine());
-                num[p] = j;
+            Console.WriteLine("elements Are : ");
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.WriteLine(arr[i]);
+
+            }
+            //for element 
+
+            Console.WriteLine("Enter element to insert in Array : ");
+            int ins = int.Parse(Console.ReadLine());
+
+            //for position
+
+            Console.WriteLine("Enter the index position to insert element : ");
+            int pos = int.Parse(Console.ReadLine());
+
+            for (int i = arr.Length - 1; i >= pos - 1; i--) 
+            {
+                arr[i + 1] = arr[i];
+                arr[pos - 1] = ins;
+
+            }
+                
+            Console.WriteLine("After insert");
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.WriteLine(arr[i]);
             }
 
 
-            Console.WriteLine("Your data :");
-            foreach (int data in num)
-            {
-                Console.WriteLine(data);
-            }
+
+            //Console.Write("Enter the lenght of Array : ");
+            //int a = int.Parse(Console.ReadLine());
+            //int[] num = new int[a];
+
+
+            //for (int i = 0; i < num.Length; i++)
+            //{
+            //    Console.Write("Enter the index number :");
+            //    int p = int.Parse(Console.ReadLine());
+
+
+            //}
+
+
+            //Console.WriteLine("Your data :");
+            //foreach (int data in num)
+            //{
+            //    Console.WriteLine(data);
+            //}
+
+
+
+
             Console.ReadLine();
         }
     }
