@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Insert Array element in specified position\bin\Debug\Insert Array element in specified position.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Insert Array element in specified position\bin\Debug\Insert Array element in specified position.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Insert Array element in specified position\bin\Debug\Insert Array element in specified position.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Insert Array element in specified position\obj\Debug\Insert Array element in specified position.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Insert Array element in specified position\obj\Debug\Insert Array element in specified position.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Insert Array element in specified position\obj\Debug\Insert Array element in specified position.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Insert Array element in specified position\obj\Debug\Insert Array element in specified position.pdb
