@@ -22,8 +22,9 @@ namespace The_frequency_of_all_numbers_in_Array
                 int inp = int.Parse(Console.ReadLine());
                 arr[i] = inp;
             }
-
-            for (int i = 0;i < arr.Length; i++)
+            Array.Sort(arr);
+            
+            for (int i = 0; i < arr.Length; i++)
             {
                 int count = 1;
 
@@ -36,9 +37,12 @@ namespace The_frequency_of_all_numbers_in_Array
 
 
                 }
-                Console.WriteLine(arr[i]+" Count in"+count +" Times");
+                
+                Console.WriteLine(arr[i] + " Count in" + count + " Times");
 
             }
+            
+            
             Console.ReadLine();
         }
     }
