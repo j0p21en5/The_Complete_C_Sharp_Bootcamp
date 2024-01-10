@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\The frequency of all numbers in Array\bin\Debug\The frequency of all numbers in Array.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\The frequency of all numbers in Array\bin\Debug\The frequency of all numbers in Array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\The frequency of all numbers in Array\bin\Debug\The frequency of all numbers in Array.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\The frequency of all numbers in Array\obj\Debug\The frequency of all numbers in Array.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\The frequency of all numbers in Array\obj\Debug\The frequency of all numbers in Array.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\The frequency of all numbers in Array\obj\Debug\The frequency of all numbers in Array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\The frequency of all numbers in Array\obj\Debug\The frequency of all numbers in Array.pdb
