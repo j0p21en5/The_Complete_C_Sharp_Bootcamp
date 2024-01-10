@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separating positive and negative integer in array\bin\Debug\Separating positive and negative integer in array.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separating positive and negative integer in array\bin\Debug\Separating positive and negative integer in array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separating positive and negative integer in array\bin\Debug\Separating positive and negative integer in array.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separating positive and negative integer in array\obj\Debug\Separating positive and negative integer in array.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separating positive and negative integer in array\obj\Debug\Separating positive and negative integer in array.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separating positive and negative integer in array\obj\Debug\Separating positive and negative integer in array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separating positive and negative integer in array\obj\Debug\Separating positive and negative integer in array.pdb
