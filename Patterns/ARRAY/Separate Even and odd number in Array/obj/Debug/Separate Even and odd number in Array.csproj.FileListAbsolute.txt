@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separate Even and odd number in Array\bin\Debug\Separate Even and odd number in Array.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separate Even and odd number in Array\bin\Debug\Separate Even and odd number in Array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separate Even and odd number in Array\bin\Debug\Separate Even and odd number in Array.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separate Even and odd number in Array\obj\Debug\Separate Even and odd number in Array.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separate Even and odd number in Array\obj\Debug\Separate Even and odd number in Array.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separate Even and odd number in Array\obj\Debug\Separate Even and odd number in Array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Separate Even and odd number in Array\obj\Debug\Separate Even and odd number in Array.pdb

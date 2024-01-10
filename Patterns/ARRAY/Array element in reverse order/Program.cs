@@ -24,11 +24,7 @@ namespace Array_element_in_reverse_order
 
             Console.WriteLine("The Reverse elements Are : ");
 
-            for (int i = arr.Length-1; i >=0; i++)
-            {
-                Console.WriteLine(arr[i]);
-
-            }
+            
 
             Console.ReadLine();
         }
