@@ -10,35 +10,38 @@ namespace Remove_duplicate_elements_in_an_array
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("eneter the you want to store in array ");
-            int n = int.Parse(Console.ReadLine());
-            int[] arr = new int[n];
+            //Console.WriteLine("eneter the you want to store in array ");
+            //int n = int.Parse(Console.ReadLine());
+            //int[] arr = new int[n];
 
-            Console.WriteLine("Enter Array elements : ");
-            for (int i = 0; i < arr.Length; i++)
-            {
-                int b = int.Parse(Console.ReadLine());
-                arr[i] = b;
-            }
-            Console.WriteLine("After......");
-            for (int i = 0;i < arr.Length; i++)
-            {
-                for (int j = i+1; j < arr.Length; j++)
-                {
-                    if (arr[i] != arr[j])
-                    {
-                        Console.WriteLine(arr[i]);
-                    }
-                    else
-                    {
-                        continue;
-                    }
-                } 
+            //Console.WriteLine("Enter Array elements : ");
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    int b = int.Parse(Console.ReadLine());
+            //    arr[i] = b;
+            //}
+            //Console.WriteLine("After......");
+            //for (int i = 0;i < arr.Length; i++)
+            //{
+            //    for (int j = i+1; j < arr.Length; j++)
+            //    {
+            //        if (arr[i] != arr[j])
+            //        {
+            //            Console.WriteLine(arr[i]);
+            //        }
+            //        else
+            //        {
+            //            continue;
+            //        }
+            //    } 
 
-                    
-                        
-                
-            }
+
+
+
+            //}
+
+
+
             //Console.WriteLine("After......");
             //for (int i = 0; i < arr.Length; i++)
             //{
@@ -46,8 +49,33 @@ namespace Remove_duplicate_elements_in_an_array
 
             //}
 
-            
 
+            Console.Write("Enter the length of Array : ");
+            int a = int.Parse(Console.ReadLine());
+
+            int[] num = new int[a];
+
+            Console.WriteLine("Enter the element : ");
+            for (int i = 0; i < num.Length; i++)
+            {
+                int b = int.Parse(Console.ReadLine());
+                num[i] = b;
+            }
+            Array.Sort(num);
+            int j = 0;
+            for (int i = 0; i < num.Length - 1; i++)
+            {
+                if (num[i] != num[i + 1])
+                {
+                    num[j++] = num[i];
+                }
+            }
+            num[j++] = num[num.Length - 1];
+
+            Console.WriteLine("After removing duplicate element from array:");
+
+            for (int i = 0; i < j; i++)
+                Console.Write(" " + num[i]);
 
             Console.ReadLine();
         }
