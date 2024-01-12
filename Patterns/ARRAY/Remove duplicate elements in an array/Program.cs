@@ -77,6 +77,43 @@ namespace Remove_duplicate_elements_in_an_array
             //for (int i = 0; i < j; i++)
             //    Console.Write(" " + num[i]);
 
+
+            //Console.WriteLine("eneter the you want to store in array ");
+            //int n = int.Parse(Console.ReadLine());
+            int[] arr = {1,2,2,3,4,4};
+            int[] temp = new int[arr.Length];
+
+            int j = 0;
+
+            
+
+
+            //Console.WriteLine("Enter Array elements : ");
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    int b = int.Parse(Console.ReadLine());
+            //    arr[i] = b;
+            //}
+            Console.WriteLine(".........");
+            Array.Sort(arr);
+
+            for (int i = 0; i < arr.Length-1; i++)
+            {
+                if (arr[i] != arr[i + 1])
+                {
+                    temp[j++] = arr[i];
+                }
+
+            }
+            temp[j++] = arr[arr.Length-1];
+            for (int i = 0;i < j; i++)
+            {
+                Console.WriteLine(temp[i]);
+            }
+            
+
+
+
             Console.ReadLine();
         }
     }
