@@ -20,7 +20,7 @@ namespace program_to_delete_a_specified_integer_in_an_array
                 int b = int.Parse(Console.ReadLine());
                 arr[i] = b;
             }
-            Console.WriteLine("Enter element to remove : ");
+            Console.WriteLine("Enter the element to remove : ");
             int rem= int.Parse(Console.ReadLine());
             Console.WriteLine("After Removing element...........");
             for (int i = 0; i < arr.Length; i++)
