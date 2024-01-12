@@ -29,6 +29,7 @@ namespace Sorting_An_Array
                     
                 }
             }
+            Console.WriteLine("Sorted Array");
             for (int i = 0;i < arr.Length; i++)
             {
                 Console.WriteLine(arr[i]);
