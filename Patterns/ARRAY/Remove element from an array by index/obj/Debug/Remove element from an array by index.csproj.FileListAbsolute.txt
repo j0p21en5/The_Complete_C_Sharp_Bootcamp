@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Remove element from an array by index\bin\Debug\Remove element from an array by index.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Remove element from an array by index\bin\Debug\Remove element from an array by index.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Remove element from an array by index\bin\Debug\Remove element from an array by index.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Remove element from an array by index\obj\Debug\Remove element from an array by index.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Remove element from an array by index\obj\Debug\Remove element from an array by index.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Remove element from an array by index\obj\Debug\Remove element from an array by index.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Remove element from an array by index\obj\Debug\Remove element from an array by index.pdb
