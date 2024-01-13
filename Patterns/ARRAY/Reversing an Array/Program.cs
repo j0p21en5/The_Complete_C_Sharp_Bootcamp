@@ -11,9 +11,9 @@ namespace Reversing_an_Array
         static void Main(string[] args)
         {
 
-            int[] arr = { 2, 6, 7, 3, 1, 2, 4, };
+            int[] arr = { 2, 6, 7, 3, 1, 2, 4 };
 
-            for (int i = arr.Length-1; i <= 0; i--)
+            for (int i = arr.Length-1; i >= 0; i--)
             {
                 Console.WriteLine(arr[i]);
             }
