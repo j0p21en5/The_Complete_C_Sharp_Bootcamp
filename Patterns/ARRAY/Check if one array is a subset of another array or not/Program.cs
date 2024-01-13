@@ -11,7 +11,7 @@ namespace Check_if_one_array_is_a_subset_of_another_array_or_not
     {
         static void Main(string[] args)
         {
-            int[] arr1 = { 1, 2, 3 };
+            int[] arr1 = { 5,56,42,};
             int[] arr2 = { 1, 2, 3, 4, 5, 6, 7 };
 
             int count = 0;
@@ -36,7 +36,7 @@ namespace Check_if_one_array_is_a_subset_of_another_array_or_not
             }
             else
             {
-                Console.WriteLine( "Second Array is not the subset of first Array ..");
+                Console.WriteLine( "Here no subset is present of Any Array... ");
             }
 
             Console.ReadLine();
