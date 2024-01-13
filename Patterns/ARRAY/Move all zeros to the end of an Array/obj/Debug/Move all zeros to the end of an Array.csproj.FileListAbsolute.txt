@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Move all zeros to the end of an Array\bin\Debug\Move all zeros to the end of an Array.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Move all zeros to the end of an Array\bin\Debug\Move all zeros to the end of an Array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Move all zeros to the end of an Array\bin\Debug\Move all zeros to the end of an Array.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Move all zeros to the end of an Array\obj\Debug\Move all zeros to the end of an Array.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Move all zeros to the end of an Array\obj\Debug\Move all zeros to the end of an Array.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Move all zeros to the end of an Array\obj\Debug\Move all zeros to the end of an Array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Move all zeros to the end of an Array\obj\Debug\Move all zeros to the end of an Array.pdb
