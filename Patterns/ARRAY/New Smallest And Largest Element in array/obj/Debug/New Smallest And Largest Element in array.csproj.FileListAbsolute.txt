@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\New Smallest And Largest Element in array\bin\Debug\New Smallest And Largest Element in array.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\New Smallest And Largest Element in array\bin\Debug\New Smallest And Largest Element in array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\New Smallest And Largest Element in array\bin\Debug\New Smallest And Largest Element in array.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\New Smallest And Largest Element in array\obj\Debug\New Smallest And Largest Element in array.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\New Smallest And Largest Element in array\obj\Debug\New Smallest And Largest Element in array.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\New Smallest And Largest Element in array\obj\Debug\New Smallest And Largest Element in array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\New Smallest And Largest Element in array\obj\Debug\New Smallest And Largest Element in array.pdb
