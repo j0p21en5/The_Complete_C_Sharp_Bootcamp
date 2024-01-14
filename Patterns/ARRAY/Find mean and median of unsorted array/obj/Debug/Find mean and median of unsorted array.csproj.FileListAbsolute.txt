@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find mean and median of unsorted array\bin\Debug\Find mean and median of unsorted array.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find mean and median of unsorted array\bin\Debug\Find mean and median of unsorted array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find mean and median of unsorted array\bin\Debug\Find mean and median of unsorted array.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find mean and median of unsorted array\obj\Debug\Find mean and median of unsorted array.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find mean and median of unsorted array\obj\Debug\Find mean and median of unsorted array.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find mean and median of unsorted array\obj\Debug\Find mean and median of unsorted array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find mean and median of unsorted array\obj\Debug\Find mean and median of unsorted array.pdb
