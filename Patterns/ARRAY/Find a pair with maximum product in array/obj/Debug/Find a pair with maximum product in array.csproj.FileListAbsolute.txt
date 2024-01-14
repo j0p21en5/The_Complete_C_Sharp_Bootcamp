@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find a pair with maximum product in array\bin\Debug\Find a pair with maximum product in array.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find a pair with maximum product in array\bin\Debug\Find a pair with maximum product in array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find a pair with maximum product in array\bin\Debug\Find a pair with maximum product in array.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find a pair with maximum product in array\obj\Debug\Find a pair with maximum product in array.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find a pair with maximum product in array\obj\Debug\Find a pair with maximum product in array.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find a pair with maximum product in array\obj\Debug\Find a pair with maximum product in array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find a pair with maximum product in array\obj\Debug\Find a pair with maximum product in array.pdb
