@@ -10,20 +10,28 @@ namespace Move_all_zeros_to_the_end_of_an_Array
     {
         static void Main(string[] args)
         {
-            int[] arr = { 0, 1, 0, 6, 0, 4, 0 };
-            int n = arr.Length-1;
-
+            int[] arr = { 0, 1, 32, 6, 0, 4, 0,0,0 };
+            int count=0 ;
+            Console.WriteLine("After all zero in the end...");
             for (int i = 0; i < arr.Length; i++)
             {
                 if (arr[i] == 0)
                 {
-                    arr[arr.Length-n] = arr[i];
-                    Console.WriteLine(arr[i]);
-                    n--;
+                    count++;
+                    continue;
+                    
                 }
+                Console.WriteLine(arr[i]);
 
-            
             }
+            for (int i = 0; i < count; i++)
+            {
+                Console.WriteLine(0);
+            }
+            
+            
+
+
             Console.ReadLine();
         }
     }
