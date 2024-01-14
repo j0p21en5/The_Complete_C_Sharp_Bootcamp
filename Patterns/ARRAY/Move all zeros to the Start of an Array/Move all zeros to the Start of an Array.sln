@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Move all zeros to the Start of an Array", "Move all zeros to the Start of an Array.csproj", "{E89ED044-EC6A-437E-B12A-6F4E8068686E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E89ED044-EC6A-437E-B12A-6F4E8068686E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89ED044-EC6A-437E-B12A-6F4E8068686E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89ED044-EC6A-437E-B12A-6F4E8068686E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89ED044-EC6A-437E-B12A-6F4E8068686E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92FEA62D-F664-456F-9DE7-60E831BEBB4E}
+	EndGlobalSection
+EndGlobal
