@@ -10,8 +10,16 @@ namespace Maximum_difference_between_two_elements_in_an_array
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter the number of elements you want to store in array : ");
+            int num= int.Parse(Console.ReadLine());
 
-            int[] arr = { 13,45,85,14,5,24,1 };
+            Console.WriteLine("Enter the Array elements : ");
+            int[] arr = new int[num];
+            for (int i = 0; i < num; i++)
+            {
+                int inp  = int.Parse(Console.ReadLine());
+                arr[i] = inp;
+            }
 
             int temp = 0;
 
@@ -29,7 +37,11 @@ namespace Maximum_difference_between_two_elements_in_an_array
 
                 }
             }
-            int n = arr[arr[arr.Length-1] -arr[0]];
+            
+            int small = arr[0];
+            int large = arr[arr.Length - 1];
+            int n = large - small;
+            //int n = arr[arr[arr.Length-1] -arr[0]];
             Console.WriteLine("The max differenc b/w to elements is : "+n);
             Console.ReadLine();
         }
