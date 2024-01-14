@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Maximum difference between two elements in an array\bin\Debug\Maximum difference between two elements in an array.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Maximum difference between two elements in an array\bin\Debug\Maximum difference between two elements in an array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Maximum difference between two elements in an array\bin\Debug\Maximum difference between two elements in an array.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Maximum difference between two elements in an array\obj\Debug\Maximum difference between two elements in an array.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Maximum difference between two elements in an array\obj\Debug\Maximum difference between two elements in an array.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Maximum difference between two elements in an array\obj\Debug\Maximum difference between two elements in an array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Maximum difference between two elements in an array\obj\Debug\Maximum difference between two elements in an array.pdb
