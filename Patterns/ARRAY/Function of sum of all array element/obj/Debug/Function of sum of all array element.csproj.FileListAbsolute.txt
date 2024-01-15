@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function of sum of all array element\bin\Debug\Function of sum of all array element.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function of sum of all array element\bin\Debug\Function of sum of all array element.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function of sum of all array element\bin\Debug\Function of sum of all array element.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function of sum of all array element\obj\Debug\Function of sum of all array element.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function of sum of all array element\obj\Debug\Function of sum of all array element.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function of sum of all array element\obj\Debug\Function of sum of all array element.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function of sum of all array element\obj\Debug\Function of sum of all array element.pdb

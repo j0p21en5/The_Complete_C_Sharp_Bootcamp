@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function of sum of all array element", "Function of sum of all array element.csproj", "{B2C5F84D-A0ED-48D1-944E-7BF2D47E47AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2C5F84D-A0ED-48D1-944E-7BF2D47E47AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C5F84D-A0ED-48D1-944E-7BF2D47E47AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C5F84D-A0ED-48D1-944E-7BF2D47E47AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C5F84D-A0ED-48D1-944E-7BF2D47E47AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1C105C0-A611-4BB2-BC1C-4857C445B750}
+	EndGlobalSection
+EndGlobal
