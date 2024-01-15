@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function For find Smallest And Largest Element in The Array\bin\Debug\Function For find Smallest And Largest Element in The Array.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function For find Smallest And Largest Element in The Array\bin\Debug\Function For find Smallest And Largest Element in The Array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function For find Smallest And Largest Element in The Array\bin\Debug\Function For find Smallest And Largest Element in The Array.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function For find Smallest And Largest Element in The Array\obj\Debug\Function For find Smallest And Largest Element in The Array.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function For find Smallest And Largest Element in The Array\obj\Debug\Function For find Smallest And Largest Element in The Array.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function For find Smallest And Largest Element in The Array\obj\Debug\Function For find Smallest And Largest Element in The Array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Function For find Smallest And Largest Element in The Array\obj\Debug\Function For find Smallest And Largest Element in The Array.pdb
