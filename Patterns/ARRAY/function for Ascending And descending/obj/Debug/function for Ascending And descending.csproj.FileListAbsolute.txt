@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\function for Ascending And descending\bin\Debug\function for Ascending And descending.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\function for Ascending And descending\bin\Debug\function for Ascending And descending.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\function for Ascending And descending\bin\Debug\function for Ascending And descending.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\function for Ascending And descending\obj\Debug\function for Ascending And descending.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\function for Ascending And descending\obj\Debug\function for Ascending And descending.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\function for Ascending And descending\obj\Debug\function for Ascending And descending.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\function for Ascending And descending\obj\Debug\function for Ascending And descending.pdb
