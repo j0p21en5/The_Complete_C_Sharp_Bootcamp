@@ -68,7 +68,7 @@ namespace function_for_Ascending_And_descending
 
             }
 
-            Console.WriteLine("Array in ascending order is : ");
+            Console.WriteLine("Array in descending order is : ");
             for (int i = arr.Length - 1; i >= 0; i--)
             {
                 Console.WriteLine(arr[i]);
