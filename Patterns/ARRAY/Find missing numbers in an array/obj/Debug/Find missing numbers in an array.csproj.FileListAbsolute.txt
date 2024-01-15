@@ -1,0 +1,7 @@
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find missing numbers in an array\bin\Debug\Find missing numbers in an array.exe.config
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find missing numbers in an array\bin\Debug\Find missing numbers in an array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find missing numbers in an array\bin\Debug\Find missing numbers in an array.pdb
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find missing numbers in an array\obj\Debug\Find missing numbers in an array.csproj.AssemblyReference.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find missing numbers in an array\obj\Debug\Find missing numbers in an array.csproj.CoreCompileInputs.cache
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find missing numbers in an array\obj\Debug\Find missing numbers in an array.exe
+D:\Github Hosting\The_Complete_C_Sharp_Bootcamp\Patterns\ARRAY\Find missing numbers in an array\obj\Debug\Find missing numbers in an array.pdb
