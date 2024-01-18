@@ -23,7 +23,7 @@ namespace Find_missing_numbers_in_an_array
             int size2 = arr.Length + 1;
             int miss = (size2 * (size2 + 1)) / 2 - sum;
             Console.WriteLine("Missing num is : "+miss);
-            //cout << "Missing Number is: " << abs(miss);
+            
 
             Console.ReadLine();
         }
