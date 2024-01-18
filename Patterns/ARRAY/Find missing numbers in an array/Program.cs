@@ -12,7 +12,7 @@ namespace Find_missing_numbers_in_an_array
         {
             int[] arr = { 2, 3, 5, 4, 1, 7 };
 
-            int temp = 0;
+            int temp  = 0;
 
             for (int i = 0; i < arr.Length; i++)
             {
