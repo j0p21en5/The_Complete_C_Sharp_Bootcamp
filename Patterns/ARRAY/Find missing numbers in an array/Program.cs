@@ -10,7 +10,7 @@ namespace Find_missing_numbers_in_an_array
     {
         static void Main(string[] args)
         {
-            int[] arr = { 2, 3, 5, 4, 1, 7 };
+            int[] arr = { 1,2,3,4,6,7 };
 
             int temp  = 0;
 
@@ -18,7 +18,7 @@ namespace Find_missing_numbers_in_an_array
             {
                 for (int j = 0;j<arr.Length-1; j++)
                 {
-                    if (arr[j] >= arr[j+1])
+                    if (arr[j] == arr[j+1])
                     {
                         temp = arr[j + 1];
                         arr[j+1] = arr[j];
