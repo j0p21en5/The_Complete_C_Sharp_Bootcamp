@@ -10,20 +10,25 @@ namespace Minimum_difference_between_two_elements_in_an_array
     {
         static void Main(string[] args)
         {
-            int[] arr = { 54, 24, 3, 42, 5, 6, 21, 2, 54, };
+            int[] arr = { 9 ,1, 8, 11, 13 };
 
-            int temp = 0;
-
-            for (int i = 0; i < arr.Length; i++)
+            
+            int i, j;
+            
+            int Min_diff = 0;
+            for (i = 0; i < arr.Length - 1; i++)
             {
-                for (int j = 0;j<arr.Length-1; j++)
+                for (j = i + 1; j < arr.Length; j++)
                 {
-                    if (arr[j] - arr[j+1] >= temp ) 
+                    if ((arr[j] - arr[i]) < Min_diff)
                     {
-                        Console.WriteLine(arr[j] +" " + arr[j+1]);
+                        Min_diff = (arr[j] - arr[i]);
                     }
                 }
             }
+
+            Console.WriteLine("Minimum difference between two Element is "+ Min_diff);
+
             Console.ReadLine();
         }
     }
