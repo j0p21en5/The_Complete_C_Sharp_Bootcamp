@@ -10,28 +10,21 @@ namespace Find_missing_numbers_in_an_array
     {
         static void Main(string[] args)
         {
-            int[] arr = { 1,2,3,4,6,7 };
+            int[] arr = { 1, 2, 3, 5, 6 };
 
-            int temp  = 0;
-
-            for (int i = 0; i < arr.Length; i++)
+            
+            int i, j;
+            
+            int sum = 0;
+            for (i = 0; i < arr.Length; i++)
             {
-                for (int j = 0;j<arr.Length-1; j++)
-                {
-                    if (arr[j] == arr[j+1])
-                    {
-                        temp = arr[j + 1];
-                        arr[j+1] = arr[j];
-                        arr[j] = temp;
-                    }
-                }
+                sum += arr[i];
+            }
+            int size2 = arr.Length + 1;
+            int miss = (size2 * (size2 + 1)) / 2 - sum;
+            Console.WriteLine("Missing num is : "+miss);
+            //cout << "Missing Number is: " << abs(miss);
 
-              
-            }
-            foreach (int i in arr)
-            {
-                Console.WriteLine(i);
-            }
             Console.ReadLine();
         }
     }
