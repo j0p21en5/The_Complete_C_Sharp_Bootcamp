@@ -18,7 +18,7 @@ namespace Minimum_difference_between_two_elements_in_an_array
             int Min_diff = 0;
 
 
-
+  
 
 
         
