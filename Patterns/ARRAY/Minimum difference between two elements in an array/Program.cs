@@ -18,8 +18,6 @@ namespace Minimum_difference_between_two_elements_in_an_array
             int Min_diff = 0;
 
 
-  
-
 
         
             for (i = 0; i < arr.Length - 1; i++)
