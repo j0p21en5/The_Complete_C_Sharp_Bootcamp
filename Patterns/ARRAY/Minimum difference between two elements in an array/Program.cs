@@ -19,8 +19,6 @@ namespace Minimum_difference_between_two_elements_in_an_array
 
 
 
-
-
         
             for (i = 0; i < arr.Length - 1; i++)
             {
