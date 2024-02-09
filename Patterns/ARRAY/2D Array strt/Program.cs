@@ -20,7 +20,7 @@ namespace _2D_Array_strt
             Console.WriteLine("Enter Array elements  : ");
             for (int i = 0; i < arr.GetLength(0); i++)
             {
-                Console.WriteLine("Enter element of row : "+i);
+                Console.WriteLine("Enter element of row index : "+i);
                 for (int j = 0; j < arr.GetLength(1); j++)
                 {
                     int b = int.Parse(Console.ReadLine());
