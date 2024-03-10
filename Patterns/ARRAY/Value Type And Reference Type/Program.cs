@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Value_Type_And_Reference_Type
 {
+    //struct Employee
     class Employee
     {
         public int Salary;
