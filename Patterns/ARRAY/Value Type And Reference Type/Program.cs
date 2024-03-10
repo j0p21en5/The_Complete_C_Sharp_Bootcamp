@@ -6,12 +6,32 @@ using System.Threading.Tasks;
 
 namespace Value_Type_And_Reference_Type
 {
+    class Employee
+    {
+        public int Salary;
+        public int Age;
+    }
     internal class Program
     {
         static void Main(string[] args)
         {
+            Employee emp = new Employee();
 
-            Console.WriteLine("Hii");
+            emp.Salary = 50000;
+
+            emp.Age = 18;
+
+            Employee e1 = emp;
+            Employee e2 = emp;
+
+            emp.Age = 19;
+
+            Console.WriteLine(e1.Age);
+            Console.WriteLine(e2.Age);
+
+            Console.ReadLine();
+
+
         }
     }
 }
